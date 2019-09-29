@@ -31,9 +31,6 @@ sidebar:
       - idiom: Korean
         level: Native
 
-      - idiom: 
-        level: 
-
     interests:
       - item: 
         link:
@@ -47,13 +44,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Driven biostatistician and data scientist with 3+ years' academic training and 
+      5 years' experience in public health studies and data analysis.
+      Specialized in survival analysis; skilled at algorithm design and problem solving.
+      Developing knowledge in machine learning, mainly interested in risk predicting model and unravelling blackbox of deep learning
+      
 
 education:
     - degree: MS in Applied Statistics
