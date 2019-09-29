@@ -56,9 +56,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Applied Statistics
+      university: Yonsei University
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Political Science
+      university: Yonsei University
+      time: 2007 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +83,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
+    - role: Researcher
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: National Cancer Center, South Korea
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,31 +100,31 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  #  - role: Senior Software Engineer
+  #    time: 2014 - 2015
+  #    company: Google, London
+  #    details: |
+  #      Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #      Cum sociis natoque penatibus et magnis dis parturient montes,
+  #      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #      pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  #  - role: UI Developer
+  #    time: 2012 - 2014
+  #    company: Amazon, London
+  #    details: |
+  #      Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #      Cum sociis natoque penatibus et magnis dis parturient montes,
+  #      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #      pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+  #        - Bullet point
+  #        - Bullet point
 
 projects:
     title: Projects
