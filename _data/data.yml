@@ -26,22 +26,22 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
