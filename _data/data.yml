@@ -82,12 +82,18 @@ experiences:
       time: 2015 - Present
       company: National Cancer Center, South Korea
       details: Expertise in population-based survival analysis
+      
+          - Contributed to maintain Korea Central Cancer Registry data and improve the accuracy of data
         
-          - Public health big data 
+          - Researched population-based survival analysis of Korean cancer patients and presented the results via speaking at conference
           
-          - Population-based survival analysis
+          - Researched cause of death of Korean cancer patients 
           
-          - Projection method
+          - Researched competing risks analysis of Korean cancer patients
+          
+          - Developed and implemented automated data generation algorithm for survival trend analysis
+          
+          
 
   #  - role: Senior Software Engineer
   #    time: 2014 - 2015
