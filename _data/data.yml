@@ -60,9 +60,9 @@ education:
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+     
 
-          - Bullet point
+          - MS
           - Bullet point
 
     - degree: BSc in Political Science
@@ -75,7 +75,7 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
+          - Dissertation title: "Fitting Accelerated Failure Time Model using Calibrated Weights for Case-Cohort Study Design"
           - Bullet point
 
 experiences:
