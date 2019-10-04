@@ -61,9 +61,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
      
-
           - Dissertation title: "Fitting Accelerated Failure Time Model using Calibrated Weights for Case-Cohort Study Design"
-          - Adviser: Sangwook Kang
+          - Adviser: Sangwook Kang, Associate Professor, Yonsei University
 
     - degree: BSc in Political Science
       university: Yonsei University
@@ -75,18 +74,16 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Dissertation title: "Fitting Accelerated Failure Time Model using Calibrated Weights for Case-Cohort Study Design"
-          - Bullet point
 
 experiences:
     - role: Researcher
       time: 2015 - Present
       company: National Cancer Center, South Korea
-      details: |
+      details: Expertise in population-based survival analysis
         
-
-          - Bullet point
-          - Bullet point
+          - Public health big data 
+          - Population-based survival analysis
+          - Projection method
 
   #  - role: Senior Software Engineer
   #    time: 2014 - 2015
@@ -166,23 +163,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SAS
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: STATA
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Matlab
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
